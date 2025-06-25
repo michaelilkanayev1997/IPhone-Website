@@ -2,6 +2,15 @@
 
 A web-based interactive experience built using **React**, **Three.js**, and **GSAP animation**. This project showcases the use of modern web technologies to create visually appealing animations and 3D experiences in a browser environment.
 
+## 📸 Screenshots
+
+<p align="center">
+ <img src="ReadMe_Images/screenshot1.png" width="300" style="padding-left: 10px;" />
+  <img src="ReadMe_Images/screenshot2.png" width="300" style="padding-left: 10px;" />
+  <img src="ReadMe_Images/screenshot3.png" width="300" />
+</p>
+
+
 ## Overview
 
 The **IPhone-Website** project is a learning endeavor aimed at exploring:
